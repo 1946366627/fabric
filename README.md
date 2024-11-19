@@ -1,2 +1,2 @@
 # fabric
-Fabric-based copyright purity system
+Fabric-based copyright preservation system
